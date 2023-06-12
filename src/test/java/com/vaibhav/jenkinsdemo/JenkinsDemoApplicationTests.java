@@ -15,7 +15,6 @@ import static org.junit.Assert.assertEquals;
 class JenkinsDemoApplicationTests {
 
 	public static Logger logger = LoggerFactory.getLogger(JenkinsDemoApplicationTests.class);
-
 	@Test
 	void contextLoads() {
 		logger.info("Test case executing");

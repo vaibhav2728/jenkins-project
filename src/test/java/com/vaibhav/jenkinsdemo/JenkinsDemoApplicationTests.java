@@ -13,7 +13,6 @@ import static org.junit.Assert.assertEquals;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 class JenkinsDemoApplicationTests {
-
 	public static Logger logger = LoggerFactory.getLogger(JenkinsDemoApplicationTests.class);
 	@Test
 	void contextLoads() {
